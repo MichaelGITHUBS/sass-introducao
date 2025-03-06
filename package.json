@@ -1,0 +1,23 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass source/main.scss build/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelGITHUBS/projeto_calculadora_medias.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelGITHUBS/projeto_calculadora_medias/issues"
+  },
+  "homepage": "https://github.com/MichaelGITHUBS/projeto_calculadora_medias#readme",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.85.1"
+  }
+}
